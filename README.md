@@ -23,6 +23,7 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 Sinta-se à vontade para entrar em contato ou explorar mais sobre os meus projetos. Estou sempre aberto a novas oportunidades e colaborações! 🤝
 
 🌐 Meu LinkedIn: [Pedro Borba](https://www.linkedin.com/in/pedro-borba)
+
 📧 Meu Email: pedrohenriqueborba1@gmail.com
 
 Obrigado por visitar! Vamos codar juntos! 💻❤️
