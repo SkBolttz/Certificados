@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 # 🌟 Front-end Development
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
 |-----------------------------------|----------------------|-------------------|--------------------------------------------|
-[Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/logica-programacao-mergulhe-programacao-javascript/certificate)                                                                                                                       
+|Lógica de programação: mergulhe em programação com JavaScript|  Alura               |  Setembro 2024                 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/logica-programacao-mergulhe-programacao-javascript/certificate)                                                                                                                       
 
 
 # 🔙 Back-end Development
