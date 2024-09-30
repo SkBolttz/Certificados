@@ -17,7 +17,7 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 # 📚 Outros Certificados
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
 |-----------------------------------|----------------------|-------------------|--------------------------------------------|
-
+Lógica de programação: explore funções e listas              |       Alura          |   Setembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/logica-programacao-funcoes-listas)
 
 # 🚀 Vamos Conectar!
 Sinta-se à vontade para entrar em contato ou explorar mais sobre os meus projetos. Estou sempre aberto a novas oportunidades e colaborações! 🤝
