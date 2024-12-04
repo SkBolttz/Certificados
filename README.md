@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 # 🌟 Front-end Development
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
 |-----------------------------------|----------------------|-------------------|--------------------------------------------|
-|HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags|  Alura               |  Dezembro 2024                 |  [Ver Certificado]([https://cursos.alura.com.br/user/hiquez/course/html-css-ambiente-arquivos-tags/certificate])         
+|HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags|  Alura               |  Dezembro 2024                 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/html-css-ambiente-arquivos-tags/certificate)         
 
 
 
