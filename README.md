@@ -18,6 +18,10 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 | Java: Trabalhando Com Listas e Coleções de Dados | Alura         | Novembro de 2024                | [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/java-listas-colecoes-dados)
 |Lógica de programação: mergulhe em programação com JavaScript|  Alura               |  Setembro 2024                 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/logica-programacao-mergulhe-programacao-javascript/certificate)                
 |Lógica de programação: explore funções e listas              |       Alura          |   Setembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/logica-programacao-funcoes-listas)
+|Java: consumindo API, gravando arquivos e lidando com erros              |       Alura          |   Novembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/java-consumindo-api-gravando-arquivos-lidando-erros)
+|Imersão Dev Back-End
+              |       Alura          |   Dezembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/immersion/certificate/52055)
+
 
 # 📚 Outros Certificados
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
