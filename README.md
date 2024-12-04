@@ -5,8 +5,8 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 # 🌟 Front-end Development
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
 |-----------------------------------|----------------------|-------------------|--------------------------------------------|
-|Lógica de programação: mergulhe em programação com JavaScript|  Alura               |  Setembro 2024                 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/logica-programacao-mergulhe-programacao-javascript/certificate)                
-|Lógica de programação: explore funções e listas              |       Alura          |   Setembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/logica-programacao-funcoes-listas)
+|HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags|  Alura               |  Dezembro 2024                 |  [Ver Certificado]([https://cursos.alura.com.br/user/hiquez/course/html-css-ambiente-arquivos-tags/certificate])         
+
 
 
 # 🔙 Back-end Development
@@ -15,7 +15,8 @@ Bem-vindo ao meu repositório! Aqui você vai encontrar uma coleção dos meus c
 | Java: criando a sua primeira aplicação    | Alura                | Setembro de 2024                | [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/java-criando-primeira-aplicacao/certificate)   
 | Java: Aplicando a Orientaçâo a Objetos    | Alura                | Outubro de 2024                 | [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/java-aplicando-orientacao-objetos)
 | Java: Trabalhando Com Listas e Coleções de Dados | Alura         | Novembro de 2024                | [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/java-listas-colecoes-dados)
-
+|Lógica de programação: mergulhe em programação com JavaScript|  Alura               |  Setembro 2024                 |  [Ver Certificado](https://cursos.alura.com.br/user/hiquez/course/logica-programacao-mergulhe-programacao-javascript/certificate)                
+|Lógica de programação: explore funções e listas              |       Alura          |   Setembro de 2024 |  [Ver Certificado](https://cursos.alura.com.br/certificate/hiquez/logica-programacao-funcoes-listas)
 
 # 📚 Outros Certificados
 | Nome do Certificado                        | Instituição                     | Data de Conclusão   | Link                                       |
